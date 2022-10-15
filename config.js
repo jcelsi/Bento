@@ -123,13 +123,21 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'coffee',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				}
+					name: 'Facebook',
+					link: 'https://facebook.com',
+				},
+				{
+					name: 'Instagram',
+					link: 'https://instagram.com',
+				},
+				{
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
+				},
 			],
 		},
 		{
@@ -137,19 +145,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
-				{
-					name: 'Instagram',
-					link: 'https://www.instagram.com',
-				},
-				{
-					name: 'Twitter',
-					link: 'https://www.twitter.com',
-				}
 			],
-		}
+		},
 	],
 
 	// Second Links Container
