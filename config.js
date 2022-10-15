@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Notion',
-			icon: 'notion',
+			icon: 'sticky-note',
 			link: 'https://www.notion.so',
 		},
 		{
@@ -129,21 +129,27 @@ const CONFIG = {
 				{
 					name: 'Linkedin',
 					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
+				}
 			],
 		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Facebook',
+					link: 'https://www.facebook.com',
+				},
+				{
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
+				},
+				{
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
+				}
+			],
+		}
 	],
 
 	// Second Links Container
